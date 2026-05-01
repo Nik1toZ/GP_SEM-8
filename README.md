@@ -10,7 +10,7 @@
 
 ## Демонстрация
 
-**Видео геймплея:** 
+**Видео геймплея:** (https://drive.google.com/file/d/1_lLYEFEgU7ZzbrSzkSrKAPakKQV3Gmyk/view?usp=sharing)
 
 **Готовая сборка для Windows:** (https://drive.google.com/file/d/1Jn0GtsdBSrBYkNjmcU3dGM6eW7MzO0FE/view?usp=sharing)
 
